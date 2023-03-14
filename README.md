@@ -17,5 +17,5 @@ bash tools/dist_train.sh configs/dual_attn_sparsercnn/dual_attn_sparsercnn_r50_f
 # Results
 |Model|Backbone|mAP|config|weight|
 |-----------|--------|----|------|
-|Sparse-RCNN|R-50-FPN|37.9|[model](https://download.openmmlab.com/mmdetection/v2.0/sparse_rcnn/sparse_rcnn_r50_fpn_1x_coco/sparse_rcnn_r50_fpn_1x_coco_20201222_214453-dc79b137.pth)
+|Sparse-RCNN|R-50-FPN|37.9|[model](https://download.openmmlab.com/mmdetection/v2.0/sparse_rcnn/sparse_rcnn_r50_fpn_1x_coco/sparse_rcnn_r50_fpn_1x_coco_20201222_214453-dc79b137.pth)|
 
